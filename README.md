@@ -10,4 +10,4 @@ https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-dat
 
 The output of the given code is in output.
 
-The file(Akshaya) contains the screenshots of the code,procession and the output.
+The file(Akshaya) contains the screenshots of the code,processing and the output.
