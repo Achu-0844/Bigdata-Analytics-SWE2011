@@ -5,7 +5,7 @@ This is Akshaya Vardhini-22MIS1098
 
 The mapreduce code is given in the FlightDelayAnalysis.java.
 
-For dataset(considered 2018) refer-
+For dataset(2018.csv) refer-
 https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?resource=download
 
 The output of the given code is in output.
